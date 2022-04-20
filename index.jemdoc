@@ -1,0 +1,44 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+#== Mingxuan Cai | Ph.D. Student
+== Mingxuan Cai
+
+~~~
+{}{img_left}{photos/6.jpg}{alt text}{450px}{300px}
+Mingxuan Cai \n
+Ph.D. Student \n
+[https://eecs.berkeley.edu/ Department of Electrical Engineering and Computer Sciences] \n
+[https://www.berkeley.edu/ University of California, Berkeley] \n
+Berkeley, California, United States \n
+\n
+Email: [mingxuan_cai@berkeley.edu mingxuan_cai@berkeley.edu] & [mxcai@zju.edu.cn mxcai@zju.edu.cn]\n
+~~~
+
+
+#== News
+#- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
+#- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
+#- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
+#- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 
+#- \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" is accepted by ICDM'18!
+#- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
+
+== About me
+I am a prospective Ph.D. student in Electrical Engineering and Computer Sciences at UC Berkeley. I will be working with [https://www2.eecs.berkeley.edu/Faculty/Homepages/waller.html Prof. Laura Waller] at [http://www.laurawaller.com/ The Computational Imaging Lab]. I graduated with honor from the department of [http://opt.zju.edu.cn/opten/ Optical Science and Engineering] in [https://www.zju.edu.cn/english/ Zhejiang University]. From 2020-2022, I had worked on Super-resolution Microscopy, especially Structured Illumination Microscopy (SIM) and Single Molecule Localization Microscopy (SMLM), supervised by Prof. Cuifang Kuang and worked at [https://person.zju.edu.cn/en/cfkuang The Super-resolution Optical Microscopy Lab]. 
+My research interests lie in the *computational imaging, optical imaging, microscopy, inverse problem, optimization, and deep learning*. I am an enthusiast of swimming, hiking and everything related to optics! My name in Chinese is 蔡明轩. \n
+\n
+I will be studying in Department of Electrical Engineering and Computer Sciences at University of California, Berkeley in the fall of 2022!
+
+== Education 
+- Ph.D. student, Department of Electrical Engineering and Computer Sciences, UC Berkeley, Berkeley, CA USA, Aug. 2022 - Present
+- B.E., Department of Optical Science and Engineering, Zhejiang University, Hangzhou, China, Sept. 2018 - Jun. 2022
+
+== Research Interests 
+- Computational Imaging
+- Optical Imaging
+- Microscopy
+- Inverse Problem
+- Optimization
+- Deep Learning
+
+== Service
+- Reviewer for [https://opg.optica.org/ol/home.cfm Optics Letters]; [https://opg.optica.org/oe/home.cfm Optics Express]
